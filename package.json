@@ -1,0 +1,15 @@
+{
+  "name": "@ian-wairimu/odin-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watch"
+  },
+  "keywords": [],
+  "author": "Ian Wairimu <ianwairimu4@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/preset-env": "^7.21.4"
+  }
+}
